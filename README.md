@@ -17,7 +17,7 @@ cd src
 python3 server.py
 ```
 
-Open `http://127.0.0.1:5550`. Paste a book URL (e.g. `https://www.webnovel.com/book/x_123456`) to start tracking it, click a cover to mark it caught up to the latest known chapter, or use the number field to set a specific chapter.
+Open `http://127.0.0.1:5550`. Paste a book URL to start tracking it, click a cover to mark it caught up to the latest known chapter, or use the number field to set a specific chapter.
 
 ### CLI
 
