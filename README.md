@@ -42,3 +42,7 @@ the background and start automatically on login instead:
 ```
 
 To stop it: `launchctl unload ~/Library/LaunchAgents/com.book-tracker.server.plist`.
+
+## Why built?
+
+Because webnovel decides to randomly delete my chapter progress every month for absolutely no reason
