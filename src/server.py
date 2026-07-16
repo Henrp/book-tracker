@@ -62,5 +62,5 @@ def read_custom(book_id):
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5550)
+    app.run(debug=False, port=5550)
 
