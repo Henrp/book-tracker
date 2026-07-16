@@ -1,7 +1,3 @@
-# book-tracker
-
-Tracks reading progress for webnovel.com serials: fetches each book's latest chapter count and lets you record how far you've read.
-
 ## Setup
 
 Requires Python 3.10+.
