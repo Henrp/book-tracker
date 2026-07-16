@@ -35,3 +35,14 @@ python3 cli.py read <book url|id> <chapter>   # record progress
 ```
 
 Both the CLI and the web UI share the same `tracker.db` SQLite file in `src/`.
+
+### Run automatically (macOS)
+
+By default you have to start `server.py` yourself each time. To have it run in
+the background and start automatically on login instead:
+
+```
+./scripts/install_macos_service.sh
+```
+
+To stop it: `launchctl unload ~/Library/LaunchAgents/com.book-tracker.server.plist`.
